@@ -1,5 +1,7 @@
 {
-    "python.analysis.extraPaths": [
-        "./scripts"
-    ]
+  "python.analysis.extraPaths": ["./scripts"],
+  "cSpell.words": [
+    "Visualyzer",
+    "vlyr"
+  ]
 }

@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-
 class DataPreprocessor:
     def __init__(self, train_path, test_path, test_id):
         """
